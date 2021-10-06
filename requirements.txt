@@ -1,0 +1,8 @@
+os-sys == 2.1.4
+pandas == 1.3.3
+numpy == 1.21.2
+streamlit == 1.0.0
+random2 == 1.0.1
+matplotlib == 3.4.3
+toml == 0.10.2
+ponytile == 0.1.1
